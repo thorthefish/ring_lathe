@@ -13,5 +13,5 @@ I made this project because Ive needed a way tto sand rings much faster cause ge
 |---------|-----------|--------|----------------|----|-------------|
 |fasteners|fastening  |1       |0.00            |    |already owned|
 |bearings |bearings   |2       |0.00            |    |already owned|
-|pla      |everything |1       |0.00            |    |already owned|
-|550 motor|drive power|1       |0.00            |    |already owned|
+|pla      |everything |1       |0.00            | https://swyftrobotics.com/products/bearings?variant=51004142190886   |already owned|
+|550 motor|drive power|1       |0.00            |  https://shop.polymaker.com/products/polymaker-pla-pro?variant=42901840527417  |already owned|
